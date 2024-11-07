@@ -5,8 +5,8 @@ import pandas as pd
 L = instaloader.Instaloader()
 
 # Login to Instagram account
-username = 'sajadg._'
-password = '14197518Ip'
+username = 'Username'
+password = 'password'
 L.login(username, password)
 
 # Get the profile of the logged-in user
